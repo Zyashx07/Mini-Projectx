@@ -1,11 +1,8 @@
 # 🐍 Python Mini Projects  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/python-mini-projects?color=blue)  
-![GitHub stars](https://img.shields.io/github/stars/your-username/python-mini-projects?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/python-mini-projects?style=social)  
 
-A collection of fun and beginner-friendly **Python projects & games** to practice coding skills.  
-Each project is self-contained and can be run independently. 🚀  
+A Collection Of Fun And Beginner-Friendly **Python Projects & Games** To Practice Coding Skills.  
+Each Project Is Self-Contained And Can be run independently. 🚀  
 
 ---
 
@@ -36,4 +33,4 @@ Each project is self-contained and can be run independently. 🚀
 
 1. **Clone this repository**  
 ```bash
-git clone https://github.com/your-username/python-mini-projects.git
+git clone https://github.com/Zyashx07/python-mini-projects.git
